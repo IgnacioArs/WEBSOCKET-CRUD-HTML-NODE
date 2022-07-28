@@ -1,21 +1,21 @@
 # WEBSOCKET-CRUD-HTML-NODE
-####1.crud-node-websocket-html (Modulos instalar)
-####archivo de configuracion
+1.crud-node-websocket-html (Modulos instalar)
+archivo de configuracion
 
-######1-npm init --yes
-######//nos ayudara a usar codigo ES6 ecma script 6  como dependencia de desarrollo
-######2-npm install @babel/node @babel/core @babel/preset-env @babel/cli -D
-######//modulo que nos ayuda a actualizar el codigo al momento del desarrollo
-######3-npm install nodemon -D
-######//para levantar nuestro servidor
-######4-npm install express
-######//para enviar y recibir los eventos mediante conexion de socket
-######5-npm install socket.io
-######//identificador unico universal ===> id
-######6-npm install uuid
-######//para otorgar animacion a los elementos creados 
-######7-https://animate.style/
-######8-npm install ncp
+1-npm init --yes
+//nos ayudara a usar codigo ES6 ecma script 6  como dependencia de desarrollo
+2-npm install @babel/node @babel/core @babel/preset-env @babel/cli -D
+//modulo que nos ayuda a actualizar el codigo al momento del desarrollo
+3-npm install nodemon -D
+//para levantar nuestro servidor
+4-npm install express
+//para enviar y recibir los eventos mediante conexion de socket
+5-npm install socket.io
+//identificador unico universal ===> id
+6-npm install uuid
+//para otorgar animacion a los elementos creados 
+7-https://animate.style/
+8-npm install ncp
 
 
 
