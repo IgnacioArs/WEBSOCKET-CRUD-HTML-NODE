@@ -17,7 +17,7 @@ archivo de configuracion
 
 
 
-#OBJERVACIONES 
+# OBJERVACIONES 
 ## -PACKAGE.JSON
   ### "scripts": {
     "dev": "nodemon src/index.js --exec babel-node --ignore src/public",
